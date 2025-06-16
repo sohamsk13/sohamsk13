@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohamsk13, also known as Soham S Kulkarni.
-- 👀 I’m interested in Web Development, Blockchain, Artificial Intelligence, and Data Structures & Algorithms.
+- 👀 I’m interested in Web Development, Devops , Data Structures & Algorithms.
 - 📫 How to reach me:  
   - Email: [sohamkulkarni1340@gmail.com](mailto:sohamkulkarni1340@gmail.com)  
   - LinkedIn: [soham-kulkarni-63b6b3250](https://www.linkedin.com/in/soham-kulkarni-63b6b3250/)  
