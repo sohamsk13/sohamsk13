@@ -10,23 +10,6 @@
 </h3>
 
 
-<h2 align="center" style="color: #8B5CF6; font-weight: 600;">📬 Contact Me</h2>
-
-<p align="center" style="color: #8B5CF6; font-weight: 500;">
-  📧 Email: <a href="mailto:sohamkulkarni1340@gmail.com" style="color: #8B5CF6;">sohamkulkarni1340@gmail.com</a><br>
-  📱 Phone: <a href="tel:+919423446043" style="color: #8B5CF6;">+91 94234 46043</a><br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/soham-kulkarni-63b6b3250" style="color: #8B5CF6;">linkedin.com/in/soham-kulkarni-63b6b3250</a>
-</p>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamsk13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsk13&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 <p align="center">
@@ -41,6 +24,17 @@ Passionate **Full Stack Developer** specializing in modern web technologies with
 - Active **open-source contributor** with merged PRs in notable projects
 
 ---
+
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamsk13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsk13&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%"/>
+</div>
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -87,4 +81,15 @@ Passionate **Full Stack Developer** specializing in modern web technologies with
 </div>
 
 ---
+
+
+
+<h2 align="center" style="color: #8B5CF6; font-weight: 600;">📬 Contact Me</h2>
+
+<p align="center" style="color: #8B5CF6; font-weight: 500;">
+  📧 Email: <a href="mailto:sohamkulkarni1340@gmail.com" style="color: #8B5CF6;">sohamkulkarni1340@gmail.com</a><br>
+  📱 Phone: <a href="tel:+919423446043" style="color: #8B5CF6;">+91 94234 46043</a><br>
+  💼 LinkedIn: <a href="https://linkedin.com/in/soham-kulkarni-63b6b3250" style="color: #8B5CF6;">linkedin.com/in/soham-kulkarni-63b6b3250</a>
+</p>
+
 
