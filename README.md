@@ -33,11 +33,6 @@ Passionate **Full Stack Developer** specializing in modern web technologies with
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamsk13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsk13&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%"/>
-</div>
-
 ---
 
 
