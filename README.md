@@ -4,10 +4,10 @@
 
 <h3 align="center" style="color: #8B5CF6; font-weight: 600; line-height: 1.6;">
   <span style="color: #8B5CF6;">✨ <strong>Full Stack Developer</strong> (MERN & Next.js)</span><br>
-  <span style="color: #8B5CF6;">🚀 <strong>4x Internship Offers</strong> | <strong>AI Integration Expert</strong></span><br>
+  <span style="color: #8B5CF6;">🚀 <strong>4x Internship Offers</strong> | <strong>AI Integration </strong></span><br>
   <span style="color: #8B5CF6;">☁️ <strong>AWS</strong> | 🛠️ <strong>DevOps</strong></span>  | 🚀 <strong>Open Source</strong> <br>
-  <span style="color: #8B5CF6;">🧠 <strong>System Design</strong> | 💻 <strong>500+ DSA Solved</strong></span> <br> <br>
-
+  <span style="color: #8B5CF6;">🧠 <strong>System Design</strong> | 💻 <strong>500+ DSA </strong></span> <br> 
+  <span style="color: #8B5CF6;">✨ <strong>Web3 & Blockchain</strong> |  <strong>Solidity</strong></span> <br> <br>
                   
 
 
