@@ -17,9 +17,12 @@
 
 ## 🚀 About Me
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sohamsk13&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
+
+
 
 Passionate **Full Stack Developer** specializing in modern web technologies with:
 - Expertise in **MERN stack** and **Next.js** applications
