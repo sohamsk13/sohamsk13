@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#06B6D4; font-weight:600; line-height:1.6;">
  💻 Full Stack Developer (MERN & Next.js) | 🤖 Agentic AI Engineer <br>
  ☁️ Cloud & DevOps (AWS, CI/CD, Docker, K8s) | 🚀 Open Source Contributor <br>
- 🎯 Freelancer | ⚡ AI/ML, GenAI, RAG | 🔗 Web3 & Blockchain Innovator <br>
+ 🎯 Freelancer | ⚡ AI/ML, GenAI, RAG 
  <br>
  🔗 <strong>Portfolio:</strong> <a href="https://sohamdevfolio.vercel.app/">sohamdevfolio.vercel.app</a>
 </h3>
