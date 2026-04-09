@@ -51,6 +51,6 @@ I'm **Soham Kulkarni**, a passionate builder thriving at the intersection of **s
 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:sohamkulkarni1340@gmail.com">sohamkulkarni1340@gmail.com</a><br>
-  📱 <strong>Phone:</strong> <a href="tel:+919423446043">+91 94234 46043</a><br>
+
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/soham-kulkarni-63b6b3250">linkedin.com/in/soham-kulkarni-63b6b3250</a><br>
 </p>
