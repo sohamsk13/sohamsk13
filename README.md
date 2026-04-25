@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#06B6D4; font-weight:600; line-height:1.6;">
  💻 Full Stack Developer | 🤖 Agentic AI / Gen AI Engineer <br>
  <br>
- 🔗 <strong>Portfolio:</strong> <a href="https://sohamdevfolio.vercel.app/">sohamdevfolio.vercel.app</a>
+
 </h3>
 
 
