@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Kulkarni;Full+Stack+Developer;AI+%26+System+Design+Enthusiast;Open+Source+%7C+DevOps+%7C+Cloud+Builder" alt="Typing SVG" />
 </h1>
 <h3 align="center" style="color:#06B6D4; font-weight:600; line-height:1.6;">
- 💻 Full Stack Developer (MERN & Next.js) | 🤖 Agentic AI Engineer <br>
- ☁️ Cloud & DevOps (AWS, CI/CD, Docker, K8s) | 🚀 Open Source Contributor <br>
- 🎯 Freelancer | ⚡ AI/ML, GenAI, RAG 
+ 💻 Full Stack Developer | 🤖 Agentic AI / Gen AI Engineer <br>
  <br>
  🔗 <strong>Portfolio:</strong> <a href="https://sohamdevfolio.vercel.app/">sohamdevfolio.vercel.app</a>
 </h3>
@@ -20,11 +18,9 @@
 
 I'm **Soham Kulkarni**, a passionate builder thriving at the intersection of **scalable systems, intelligent automation, and developer-first design.**  
 
-- 🧩 **Full Stack Architect** → MERN, Next.js, FastAPI, Flask  
+- 🧩 **Full Stack Developer* 
 - 🔐 **Security-first DevOps** → Docker, K8s, CI/CD pipelines  
-- 🤖 **AI/ML/DS Engineer** → LangChain, **LangGraph**, RAG, GenAI  
-- 🛠️ **Open Source Contributor** → PRs merged in impactful projects  
-- 📦 **System Design Enthusiast** → Building for scale & reliability  
+- 🤖 **AI/ML/DS Engineer** → LangChain, **LangGraph**, RAG, GenAI, CrewAI, Multi-agent Systems   
 - 🎯 **500+ DSA Problems Solved** (LeetCode, GFG, Codeforces)  
 
 ---
