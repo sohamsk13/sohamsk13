@@ -11,7 +11,7 @@ I build **AI-native applications** that think, reason, and act.
 * 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
 * 🧩 Strong experience with **RAG Pipelines, LLM Orchestration & Tool Calling**
 * ⚙️ Production experience building **end-to-end AI SaaS platforms**
-* 🏦 Ex- **SDE Intern @ BNP Paribas**
+* 🏦 **SDE Intern @ BNP Paribas**
 * 💡 Passionate about the future of **autonomous software systems**
 
 ---
