@@ -1,79 +1,158 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Kulkarni;Full+Stack+Developer+%7C+AI+Engineer;Building+Scalable+%26+Intelligent+Systems;Open+Source+%7C+Cloud+%7C+DevOps" />
-</h1>
+# 👋 Hi, I'm Soham Kulkarni
 
-<p align="center">
-  <b>💻 Full Stack Developer • 🤖 AI / GenAI Engineer • ⚡ System Design Enthusiast</b>
-</p>
+🚀 **Full Stack AI Engineer | Agentic AI Builder | GenAI Systems Developer**
 
 ---
 
-## 🚀 About Me  
+## 🧠 About Me
 
-I’m **Soham Kulkarni**, a builder focused on creating **scalable systems, AI-powered applications, and developer-first products**.
+I build **AI-native applications** that think, reason, and act.
 
-- 🔹 Building **Agentic AI systems** (LangChain, LangGraph, RAG, Multi-Agent)
-- 🔹 Strong in **Full Stack Development** (React, Node.js, FastAPI)
-- 🔹 Focused on **performance, system design & real-world impact**
-- 🔹 Solved **500+ DSA problems** across platforms  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-
-**Languages**  
-JavaScript • TypeScript • Python • C++
-
-**Frontend**  
-React • Next.js • Tailwind • MUI  
-
-**Backend**  
-Node.js • Express • FastAPI • Flask  
-
-**AI / GenAI**  
-LangChain • LangGraph • RAG • CrewAI • Multi-Agent Systems  
-
-**Databases**  
-MongoDB • PostgreSQL • MySQL • Prisma  
-
-**DevOps & Cloud**  
-AWS • GCP • Docker • Kubernetes • GitHub Actions  
-
-**Web3 (Explored)**  
-Solidity • Hardhat • Ethers.js  
-
-</p>
+* 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
+* 🧩 Strong experience with **RAG Pipelines, LLM Orchestration & Tool Calling**
+* ⚙️ Production experience building **end-to-end AI SaaS platforms**
+* 🏦 Ex- **SDE Intern @ BNP Paribas**
+* 💡 Passionate about the future of **autonomous software systems**
 
 ---
 
-## 🏆 Achievements  
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohamsk13&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+### 👨‍💻 Languages & Frameworks
 
----
+`Python` `JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `FastAPI` `Flask`
 
-## 📌 What I’m Building  
+### 🤖 AI & GenAI
 
-- 🤖 **Agentic AI Trip Planner** → Multi-agent system with real-time reasoning  
-- 🧠 **RAG-based Systems** → Intelligent retrieval + reasoning pipelines  
-- ⚙️ **Production-ready Backend Systems** → Fast, scalable APIs  
+`LangChain` `LangGraph` `CrewAI`
+`RAG Pipelines` `Agentic AI` `Prompt Engineering`
+`Tool Calling` `Embeddings` `Vector Databases`
 
----
+### ☁️ Cloud & DevOps
 
-## 📬 Connect With Me  
+`AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
 
-<p align="center">
-  📧 <a href="mailto:sohamkulkarni1340@gmail.com">sohamkulkarni1340@gmail.com</a>  
-  <br>
-  💼 <a href="https://linkedin.com/in/soham-kulkarni-63b6b3250">LinkedIn</a>
-</p>
+### 🗄️ Databases
+
+`MongoDB` `PostgreSQL` `MySQL` `FAISS` `ChromaDB`
 
 ---
 
-<p align="center">
-  ⚡ <i>Focused on building systems that scale, think, and solve real problems.</i>
-</p>
+## 🚀 Featured Projects
+
+### 🧳 Agentic AI Trip Planner
+
+> Multi-agent system that autonomously builds full travel itineraries
+
+* Built with **CrewAI + FastAPI + React**
+* AI agents handle:
+
+  * ✈️ Flights
+  * 🏨 Hotels
+  * 📍 Activities
+  * 💰 Budget optimization
+* Includes **agent memory + fallback strategies**
+
+---
+
+### 💼 Recruitment Automation Agent
+
+> AI-powered hiring workflow automation system
+
+* Built using **LangGraph + FastAPI**
+* Autonomous:
+
+  * Candidate screening
+  * Decision flows
+  * Multi-step reasoning
+
+---
+
+### 🛡️ AML RAG Chatbot (BNP Paribas)
+
+> Enterprise-grade compliance AI system
+
+* Natural language queries over AML data
+* Built scalable **retrieval pipelines + vector search**
+* Included **hallucination detection & structured outputs**
+* ⭐ Recognized by senior stakeholders
+
+---
+
+### 🎤 InterviewPrep AI
+
+> Voice-based AI interviewer
+
+* Built using **Vapi AI + Gemini + Next.js**
+* Features:
+
+  * Real-time conversations
+  * Dynamic follow-ups
+  * Instant feedback
+
+🔗 https://github.com/sohamsk13/InterviewPrep-AI
+
+---
+
+## 🏢 Experience
+
+### Software Development Engineer Intern — BNP Paribas
+
+* Improved reliability of **trade eligibility systems**
+* Built **Replay Analysis Tool** → reduced manual work by **70%**
+
+### Full Stack AI Engineer Intern — Corp Crunch
+
+* Built **agentic GenAI SaaS platform**
+* Designed **multi-agent workflows with memory & reasoning loops**
+* Implemented secure systems with **OAuth2 + JWT**
+
+---
+
+## 🌍 Open Source Contributions
+
+* 🛠️ **Forem (dev.to)** → Fixed timezone scheduling bug
+* ⚡ **Excalidraw** → Performance optimization
+* 🎨 **Cal.com** → UI improvements
+
+---
+
+## 🏆 Achievements
+
+* 🥇 BNP Paribas Hackathon — Best Team
+* 💻 Solved **500+ DSA problems**
+* 🥈 Ranked **2nd out of 400+ students**
+
+---
+
+## 📜 Certifications
+
+* Oracle Data Science Professional (2025)
+* Google Cloud Foundations
+* GenAI Prompt Engineering (Google Cloud)
+* System Design Masterclass
+
+---
+
+## 🎓 Education
+
+🎓 B.E. Computer Engineering
+Dr. D.Y. Patil Institute of Technology (2026)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 [sohamkulkarni1340@gmail.com](mailto:sohamkulkarni1340@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/soham-kulkarni-63b6b3250
+* 💻 GitHub: https://github.com/sohamsk13
+
+---
+
+## ⚡ Philosophy
+
+> “Software is no longer just written — it’s **orchestrated with intelligence**.”
+
+---
+
+⭐ If you like my work, consider giving a star!
