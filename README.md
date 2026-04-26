@@ -18,9 +18,8 @@
 
 I'm **Soham Kulkarni**, a passionate builder thriving at the intersection of **scalable systems, intelligent automation, and developer-first design.**  
 
-- 🧩 **Full Stack Developer* 
-- 🔐 **Security-first DevOps** → Docker, K8s, CI/CD pipelines  
-- 🤖 **AI/ML/DS Engineer** → LangChain, **LangGraph**, RAG, GenAI, CrewAI, Multi-agent Systems   
+- 🧩 **Full Stack Developer*  
+- 🤖 **AI/GENAI Engineer** → LangChain, **LangGraph**, RAG, GenAI, CrewAI, Multi-agent Systems   
 - 🎯 **500+ DSA Problems Solved** (LeetCode, GFG, Codeforces)  
 
 ---
