@@ -105,16 +105,7 @@ FAISS | ChromaDB
 
 ---
 
-## 🏆 Highlights
 
-| Achievement | Details |
-|------------|---------|
-| 🥇 **BNP Paribas Hackathon** | Best Team Winner |
-| 💻 **DSA Mastery** | 500+ problems solved |
-| 🥈 **Academic Ranking** | 2nd out of 400+ students |
-| 🌍 **Open Source** | Forem • Excalidraw • Cal.com |
-
----
 
 
 
