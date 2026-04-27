@@ -19,7 +19,7 @@ I build **AI-native applications** that think, reason, and act autonomously.
 - 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
 - 🧩 Expert in **RAG Pipelines, LLM Orchestration & Tool Calling**
 - ⚙️ Production experience building **end-to-end AI SaaS platforms**
-- 🏦 **SDE Intern @ BNP Paribas** — Delivered enterprise AI solutions
+- 🏦 **SDE Intern @ BNP Paribas** —
 - 💡 Passionate about **autonomous software systems**
 
 ---
@@ -92,11 +92,7 @@ FAISS | ChromaDB
 - **Innovation:** Hallucination detection & structured outputs
 - **Impact:** ⭐ Recognized by senior stakeholders
 
-### 🎤 InterviewPrep AI
-**Voice-based AI interviewer**
-- **Tech:** Vapi AI + Gemini + Next.js
-- **Features:** Real-time conversations | Dynamic follow-ups | Instant feedback
-- 🔗 [View on GitHub](https://github.com/sohamsk13/InterviewPrep-AI)
+
 
 ---
 
@@ -120,30 +116,9 @@ FAISS | ChromaDB
 
 ---
 
-## 📜 Certifications
 
-- Oracle Data Science Professional (2025)
-- Google Cloud Foundations
-- GenAI Prompt Engineering (Google Cloud)
-- System Design Masterclass
 
----
 
-## 🎓 Education
-
-**B.E. Computer Engineering**
-Dr. D.Y. Patil Institute of Technology (2026)
-
----
 
 <div align="center">
 
-## 💭 Philosophy
-
-> **"Software is no longer just written — it's orchestrated with intelligence."**
-
-<br>
-
-⭐ If you find my work interesting, consider starring my repositories!
-
-</div>
