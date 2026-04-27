@@ -1,158 +1,149 @@
-# 👋 Hi, I'm Soham Kulkarni
+<div align="center">
 
-🚀 **Full Stack AI Engineer | Agentic AI Builder | GenAI Systems Developer**
+# 👋 Soham Kulkarni
+
+**Full Stack AI Engineer | Agentic AI Builder | GenAI Systems Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sohamsk13-black?logo=github)](https://github.com/sohamsk13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Kulkarni-blue?logo=linkedin)](https://linkedin.com/in/soham-kulkarni-63b6b3250)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sohamkulkarni1340@gmail.com)
 
 ---
+
+</div>
 
 ## 🧠 About Me
 
-I build **AI-native applications** that think, reason, and act.
+I build **AI-native applications** that think, reason, and act autonomously.
 
-* 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
-* 🧩 Strong experience with **RAG Pipelines, LLM Orchestration & Tool Calling**
-* ⚙️ Production experience building **end-to-end AI SaaS platforms**
-* 🏦 **SDE Intern @ BNP Paribas**
-* 💡 Passionate about the future of **autonomous software systems**
+- 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
+- 🧩 Expert in **RAG Pipelines, LLM Orchestration & Tool Calling**
+- ⚙️ Production experience building **end-to-end AI SaaS platforms**
+- 🏦 **SDE Intern @ BNP Paribas** — Delivered enterprise AI solutions
+- 💡 Passionate about **autonomous software systems**
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Frameworks
+<table align="center">
+<tr>
+<td width="50%">
 
-`Python` `JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `FastAPI` `Flask`
+**Languages & Frameworks**
+```
+Python | JavaScript | TypeScript
+React.js | Next.js | Node.js
+FastAPI | Flask
+```
 
-### 🤖 AI & GenAI
+</td>
+<td width="50%">
 
-`LangChain` `LangGraph` `CrewAI`
-`RAG Pipelines` `Agentic AI` `Prompt Engineering`
-`Tool Calling` `Embeddings` `Vector Databases`
+**AI & GenAI**
+```
+LangChain | LangGraph | CrewAI
+RAG Pipelines | Agentic AI
+Tool Calling | Vector Search
+```
 
-### ☁️ Cloud & DevOps
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-`AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
+**Cloud & DevOps**
+```
+AWS | GCP | Docker
+Kubernetes | CI/CD
+```
 
-### 🗄️ Databases
+</td>
+<td width="50%">
 
-`MongoDB` `PostgreSQL` `MySQL` `FAISS` `ChromaDB`
+**Databases**
+```
+MongoDB | PostgreSQL | MySQL
+FAISS | ChromaDB
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧳 Agentic AI Trip Planner
-
-> Multi-agent system that autonomously builds full travel itineraries
-
-* Built with **CrewAI + FastAPI + React**
-* AI agents handle:
-
-  * ✈️ Flights
-  * 🏨 Hotels
-  * 📍 Activities
-  * 💰 Budget optimization
-* Includes **agent memory + fallback strategies**
-
----
+**Multi-agent system that autonomously builds travel itineraries**
+- **Built with:** CrewAI + FastAPI + React
+- **Capabilities:** ✈️ Flight booking | 🏨 Hotel search | 📍 Activity planning | 💰 Budget optimization
+- **Features:** Agent memory, fallback strategies, real-time reasoning
 
 ### 💼 Recruitment Automation Agent
-
-> AI-powered hiring workflow automation system
-
-* Built using **LangGraph + FastAPI**
-* Autonomous:
-
-  * Candidate screening
-  * Decision flows
-  * Multi-step reasoning
-
----
+**AI-powered hiring workflow automation**
+- **Built with:** LangGraph + FastAPI
+- **Autonomous tasks:** Candidate screening | Decision flows | Multi-step reasoning
 
 ### 🛡️ AML RAG Chatbot (BNP Paribas)
-
-> Enterprise-grade compliance AI system
-
-* Natural language queries over AML data
-* Built scalable **retrieval pipelines + vector search**
-* Included **hallucination detection & structured outputs**
-* ⭐ Recognized by senior stakeholders
-
----
+**Enterprise-grade compliance AI system**
+- **Tech:** Scalable retrieval pipelines + vector search
+- **Innovation:** Hallucination detection & structured outputs
+- **Impact:** ⭐ Recognized by senior stakeholders
 
 ### 🎤 InterviewPrep AI
-
-> Voice-based AI interviewer
-
-* Built using **Vapi AI + Gemini + Next.js**
-* Features:
-
-  * Real-time conversations
-  * Dynamic follow-ups
-  * Instant feedback
-
-🔗 https://github.com/sohamsk13/InterviewPrep-AI
+**Voice-based AI interviewer**
+- **Tech:** Vapi AI + Gemini + Next.js
+- **Features:** Real-time conversations | Dynamic follow-ups | Instant feedback
+- 🔗 [View on GitHub](https://github.com/sohamsk13/InterviewPrep-AI)
 
 ---
 
-## 🏢 Experience
+## 💼 Experience
 
-### Software Development Engineer Intern — BNP Paribas
-
-* Improved reliability of **trade eligibility systems**
-* Built **Replay Analysis Tool** → reduced manual work by **70%**
-
-### Full Stack AI Engineer Intern — Corp Crunch
-
-* Built **agentic GenAI SaaS platform**
-* Designed **multi-agent workflows with memory & reasoning loops**
-* Implemented secure systems with **OAuth2 + JWT**
+| Role | Company | Key Achievements |
+|------|---------|-----------------|
+| **SDE Intern** | BNP Paribas | • Improved trade eligibility systems<br>• Built Replay Analysis Tool (70% efficiency gain) |
+| **Full Stack AI Engineer Intern** | Corp Crunch | • Built agentic GenAI SaaS platform<br>• Designed multi-agent workflows with memory loops<br>• Implemented OAuth2 + JWT security |
 
 ---
 
-## 🌍 Open Source Contributions
+## 🏆 Highlights
 
-* 🛠️ **Forem (dev.to)** → Fixed timezone scheduling bug
-* ⚡ **Excalidraw** → Performance optimization
-* 🎨 **Cal.com** → UI improvements
-
----
-
-## 🏆 Achievements
-
-* 🥇 BNP Paribas Hackathon — Best Team
-* 💻 Solved **500+ DSA problems**
-* 🥈 Ranked **2nd out of 400+ students**
+| Achievement | Details |
+|------------|---------|
+| 🥇 **BNP Paribas Hackathon** | Best Team Winner |
+| 💻 **DSA Mastery** | 500+ problems solved |
+| 🥈 **Academic Ranking** | 2nd out of 400+ students |
+| 🌍 **Open Source** | Forem • Excalidraw • Cal.com |
 
 ---
 
 ## 📜 Certifications
 
-* Oracle Data Science Professional (2025)
-* Google Cloud Foundations
-* GenAI Prompt Engineering (Google Cloud)
-* System Design Masterclass
+- Oracle Data Science Professional (2025)
+- Google Cloud Foundations
+- GenAI Prompt Engineering (Google Cloud)
+- System Design Masterclass
 
 ---
 
 ## 🎓 Education
 
-🎓 B.E. Computer Engineering
+**B.E. Computer Engineering**
 Dr. D.Y. Patil Institute of Technology (2026)
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-* 📧 [sohamkulkarni1340@gmail.com](mailto:sohamkulkarni1340@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/soham-kulkarni-63b6b3250
-* 💻 GitHub: https://github.com/sohamsk13
+## 💭 Philosophy
 
----
+> **"Software is no longer just written — it's orchestrated with intelligence."**
 
-## ⚡ Philosophy
+<br>
 
-> “Software is no longer just written — it’s **orchestrated with intelligence**.”
+⭐ If you find my work interesting, consider starring my repositories!
 
----
-
-⭐ If you like my work, consider giving a star!
+</div>
