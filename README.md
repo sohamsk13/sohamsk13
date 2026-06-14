@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I build **AI-native applications** that think, reason, and act autonomously.
+I build **Full Stack & AI applications** .
 
 - 🧩 Full Stack Developer
 - 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
