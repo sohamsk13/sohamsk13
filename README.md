@@ -16,6 +16,7 @@
 
 I build **AI-native applications** that think, reason, and act autonomously.
 
+- 🧩 Full Stack Developer
 - 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
 - 🧩 Expert in **RAG Pipelines, LLM Orchestration & Tool Calling**
 - ⚙️ Production experience building **end-to-end AI SaaS platforms**
