@@ -2,7 +2,7 @@
 
 # 👋 Soham Kulkarni
 
-**Full Stack AI Engineer | Agentic AI Builder | GenAI Systems Developer**
+**Full Stack Developer | AI Engineer | Agentic AI Builder | GenAI Systems Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sohamsk13-black?logo=github)](https://github.com/sohamsk13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Kulkarni-blue?logo=linkedin)](https://linkedin.com/in/soham-kulkarni-63b6b3250)
