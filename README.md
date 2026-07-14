@@ -17,10 +17,11 @@
 I build **Full Stack & AI applications** .
 
 - 🧩 Full Stack Developer
+- ⚙️Typescript, React.js, Node.js, Next.js, FastAPI, Javascript
 - 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
 - 🧩 Expert in **RAG Pipelines, LLM Orchestration & Tool Calling**
 - ⚙️ Production experience building **end-to-end AI SaaS platforms**
-- 🏦 **SDE Intern @ BNP Paribas** —
+- 🏦 **SDE @ BNP Paribas** —
 - 💡 Passionate about **autonomous software systems**
 
 ---
@@ -101,7 +102,7 @@ FAISS | ChromaDB
 
 | Role | Company | Key Achievements |
 |------|---------|-----------------|
-| **SDE Intern** | BNP Paribas | • Improved trade eligibility systems<br>• Built Replay Analysis Tool (70% efficiency gain) |
+| **SDE** | BNP Paribas | • Improved trade eligibility systems<br>• Built Replay Analysis Tool (70% efficiency gain) |
 | **Full Stack AI Engineer Intern** | Corp Crunch | • Built agentic GenAI SaaS platform<br>• Designed multi-agent workflows with memory loops<br>• Implemented OAuth2 + JWT security |
 
 ---
