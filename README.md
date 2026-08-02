@@ -1,117 +1,65 @@
 <div align="center">
 
-# 👋 Soham Kulkarni
+# 👋 Hi, I'm Soham Kulkarni
 
-**Full Stack Developer | AI Engineer | Agentic AI Builder | GenAI Systems Developer**
+### Software Engineer  • Full Stack Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-sohamsk13-black?logo=github)](https://github.com/sohamsk13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Kulkarni-blue?logo=linkedin)](https://linkedin.com/in/soham-kulkarni-63b6b3250)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sohamkulkarni1340@gmail.com)
+Building scalable backend systems, production-grade AI applications, and intelligent multi-agent platforms.
 
----
+<p align="center">
+  <a href="https://github.com/sohamsk13"><img src="https://img.shields.io/badge/GitHub-sohamsk13-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/soham-kulkarni-63b6b3250"><img src="https://img.shields.io/badge/LinkedIn-Soham%20Kulkarni-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sohamkulkarni1340@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Engineer;Spring+Boot+Developer;FastAPI+Developer;Agentic+AI+Builder;Open+Source+Contributor"/>
 
 </div>
 
-## 🧠 About Me
+---
 
-I build **Full Stack & AI applications** .
+# 🚀 About Me
 
-- 🧩 Full Stack Developer
-- ⚙️Typescript, React.js, Node.js, Next.js, FastAPI, Javascript
-- 🔥 Specialized in **Agentic AI Systems & Multi-Agent Architectures**
-- 🧩 Expert in **RAG Pipelines, LLM Orchestration & Tool Calling**
-- ⚙️ Production experience building **end-to-end AI SaaS platforms**
-- 🏦 **SDE @ BNP Paribas** —
-- 💡 Passionate about **autonomous software systems**
+I'm a **Software Engineer at BNP Paribas** passionate about building distributed backend systems, cloud-native applications, and production-grade AI platforms.
+
+- 💼 Software Engineer @ BNP Paribas
+- ⚡ Spring Boot | FastAPI | React | Node.js | Next.js
+-  Langchain 
+- ☁️ AWS • Docker • Kubernetes
+- 🧠 500+ DSA Problems Solved
+- 🌍 Open Source Contributor
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 Impact
 
-<table align="center">
-<tr>
-<td width="50%">
-
-**Languages & Frameworks**
-```
-Python | JavaScript | TypeScript
-React.js | Next.js | Node.js
-FastAPI | Flask
-```
-
-</td>
-<td width="50%">
-
-**AI & GenAI**
-```
-LangChain | LangGraph | CrewAI
-RAG Pipelines | Agentic AI
-Tool Calling | Vector Search
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Cloud & DevOps**
-```
-AWS | GCP | Docker
-Kubernetes | CI/CD
-```
-
-</td>
-<td width="50%">
-
-**Databases**
-```
-MongoDB | PostgreSQL | MySQL
-FAISS | ChromaDB
-```
-
-</td>
-</tr>
-</table>
+| Metric | Achievement |
+|---------|-------------|
+| 👥 Users Served | 10K+ |
+| 🤖 Automation | 80% Workflow Automation |
+| 💻 DSA | 500+ Problems Solved |
+| 🏆 Hackathons | BNP Paribas best Performance |
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 🧳 Agentic AI Trip Planner
-**Multi-agent system that autonomously builds travel itineraries**
-- **Built with:** CrewAI + FastAPI + React
-- **Capabilities:** ✈️ Flight booking | 🏨 Hotel search | 📍 Activity planning | 💰 Budget optimization
-- **Features:** Agent memory, fallback strategies, real-time reasoning
-
-### 💼 Recruitment Automation Agent
-**AI-powered hiring workflow automation**
-- **Built with:** LangGraph + FastAPI
-- **Autonomous tasks:** Candidate screening | Decision flows | Multi-step reasoning
-
-### 🛡️ AML RAG Chatbot (BNP Paribas)
-**Enterprise-grade compliance AI system**
-- **Tech:** Scalable retrieval pipelines + vector search
-- **Innovation:** Hallucination detection & structured outputs
-- **Impact:** ⭐ Recognized by senior stakeholders
-
-
-
----
-
-## 💼 Experience
-
-| Role | Company | Key Achievements |
-|------|---------|-----------------|
-| **SDE** | BNP Paribas | • Improved trade eligibility systems<br>• Built Replay Analysis Tool (70% efficiency gain) |
-| **Full Stack AI Engineer Intern** | Corp Crunch | • Built agentic GenAI SaaS platform<br>• Designed multi-agent workflows with memory loops<br>• Implemented OAuth2 + JWT security |
-
----
+```text
+Languages: Java • Python • TypeScript • JavaScript • SQL
+Backend: Spring Boot • FastAPI • Node.js • Express
+Frontend: React • Next.js • Tailwind CSS
+AI: LangChain • LangGraph • CrewAI • RAG • Vector DB
+Cloud: AWS • Docker • Kubernetes
+Database: PostgreSQL • MongoDB • Redis • MySQL
+```
 
 
 
 
 
 
+# 🤝 Let's Connect
 
-<div align="center">
+⭐ If you like my work, consider following me and starring my repositories!
 
+> "Building software that scales. Designing AI that thinks. Solving problems that matter."
